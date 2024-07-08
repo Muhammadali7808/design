@@ -1,0 +1,117 @@
+.con_title {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #3d3d3f;
+    text-align: center;
+}
+
+.contact {
+    padding-top: 106px;
+}
+
+.con_coment {
+    margin-bottom: 60px;
+}
+
+
+
+.label {
+    margin-bottom: 3px;
+    margin-right: 15px;
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    color: #3d3d3f;
+    display: block;
+}
+
+.con_list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    // gap: 31px;
+    margin-bottom: 35px;
+}
+
+.con_content {
+    margin-left: 170px;
+}
+
+.input {
+    width: 343px;
+    height: 53px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    padding-left: 12px;
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 5px;
+    box-shadow: 0 4px 120px 0 rgba(0, 0, 0, 0.03);
+    color: #515155;
+    border: none;
+    opacity: 0.4;
+}
+
+.email {
+    width: 343px;
+    height: 53px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    padding-left: 15px;
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 5px;
+    box-shadow: 0 4px 120px 0 rgba(0, 0, 0, 0.03);
+    color: #515155;
+    border: none;
+    opacity: 0.4;
+}
+
+.deadline {
+    width: 343px;
+    height: 53px;
+    padding-top: 16px;
+    padding-bottom: 14px;
+    padding-left: 12px;
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 5px;
+    box-shadow: 0 4px 120px 0 rgba(0, 0, 0, 0.03);
+    color: #515155;
+    border: none;
+    opacity: 0.4;
+}
+
+
+
+.write_us {
+    width: 895px;
+    height: 191px;
+    padding-top: 19px;
+    padding-bottom: 150px;
+    padding-left: 18px;
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 5px;
+    box-shadow: 0 4px 120px 0 rgba(0, 0, 0, 0.03);
+    color: #515155;
+    border: none;
+    opacity: 0.4;
+}
+
+
+.con_btn {
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 5px;
+    padding: 14px 23px;
+    width: 225px;
+    border: none;
+    margin-left: 840px;
+    margin-top: 51px;
+    margin-bottom: 94px;
+    background: linear-gradient(180deg, #f35f2f 0%, rgba(243, 95, 47, 0.75) 100%);
+}

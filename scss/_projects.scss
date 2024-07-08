@@ -1,0 +1,43 @@
+.pro_title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #3d3d3f;
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+.pro_text {
+    font-weight: 500;
+    font-size: 20px;
+    color: #3d3d3f;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.pro_item {
+    box-shadow: 0 4px 22px 0 rgba(95, 95, 95, 0.05);
+    width: 392px;
+    height: 367px;
+}
+
+.pro_list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 29px;
+}
+
+.pro_btn {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    border: none;
+    padding: 14px 25px;
+    border-radius: 5px;
+    margin-top: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    margin-bottom: 120px;
+    background: linear-gradient(180deg, #f35f2f 0%, rgba(243, 95, 47, 0.75) 100%);
+}
